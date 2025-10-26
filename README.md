@@ -1,66 +1,73 @@
 ![Header](Header.png)
-# 🏋️‍♂️ IronCore Fitness Analytics & Power BI Chatbot
+
+# 🏠 Home Tech Solution Analytics & AI Assistant
 
 ### 💡 Overview
-A data-driven fitness analytics project combining **Data Science** and **Business Intelligence (BI)** to optimize gym operations, track performance, and provide real-time insights through an **AI-powered Power BI chatbot**.
+A data intelligence and business optimization project integrating **Data Analytics**, **Business Intelligence (BI)**, and **AI-driven automation** to improve operational efficiency, customer experience, and decision-making for **Home Tech Solution**.
+
+This system leverages **Excel-based datasets**, **Pivot Tables**, and an integrated **AI chatbot** to deliver actionable insights and real-time support.
 
 ---
 
 ## 🚀 Goals
-- Analyze member trends, trainer performance, and revenue patterns.  
-- Build interactive Power BI dashboards.  
-- Enable natural-language Q&A with a Power BI chatbot.  
-- Integrate Data Science insights with BI reporting.
+- Analyze apartment performance, energy usage, and maintenance efficiency.  
+- Develop interactive dashboards for smart home management.  
+- Enable natural language Q&A through an AI chatbot interface.  
+- Integrate predictive analytics to forecast maintenance trends and energy consumption.
 
 ---
 
 ## 🧩 Dataset Summary
-- **Users:** Demographics, membership, goals, and progress.  
-- **Payments:** Transactions, payment modes, and dates.  
-- **Expenses:** Operational costs (equipment, rent, salaries).
+- **Apartments Dataset (Excel):** Energy usage, temperature levels, device performance, and occupancy.  
+- **Maintenance Dataset:** Service requests, issue categories, resolution times, and technician performance.  
+- **Customer Data:** Apartment ID, service history, and reported issues.  
+
+> 📁 *All data processing, summaries, and insights are managed directly from Excel files using Pivot Tables and Power Query.*
 
 ---
 
 ## 📊 Key Insights
-- **Total Revenue:** \$4.1M | **Expenses:** \$1.2M | **Profit:** \$2.9M  
-- **Most Popular Plan:** Gold (35%)  
-- **Active Members:** 44% | **Inactive:** 56%  
-- **Avg Age:** 32 years | **Avg Membership Duration:** 180 days  
-- **Top Payment Mode:** Mobile Money  
-- **Peak Revenue Months:** January, May, November  
+- **Total Apartments Monitored:** 120  
+- **Average Energy Efficiency:** 89%  
+- **Average Maintenance Resolution Time:** 1.8 days  
+- **Most Common Issue:** HVAC System Faults  
+- **Peak Energy Usage Months:** February, July, November  
+- **Overall Maintenance Completion Rate:** 94%  
 
 ---
 
 ## 🧠 Data Science + BI Strategy
-| Data Science | Business Intelligence |
-|---------------|-----------------------|
-| Data cleaning & EDA (Python, Pandas) | Power BI dashboards & KPIs |
-| KPI computation & trend modeling | Interactive visualizations |
-| Insight automation | Chatbot integration |
+| Data Analytics | Business Intelligence |
+|----------------|-----------------------|
+| Data cleaning, transformation & Excel modeling | Dashboard visualizations with key KPIs |
+| Predictive maintenance & performance trends | Real-time summaries for energy and maintenance |
+| Statistical summaries and trend insights | Automated reporting and AI chat integration |
 
 ---
 
 ## 🧮 Core KPIs
-- **Profit Margin:** (Revenue - Expenses) / Revenue  
-- **Active Clients %:** Active ÷ Total  
-- **Avg Progress:** SUM(Progress)/COUNT(Clients)  
-- **Client Retention:** Renewed ÷ Total  
+- **Energy Efficiency (%):** (Optimal Usage ÷ Total Usage) × 100  
+- **Maintenance Efficiency:** Completed Tasks ÷ Total Tasks  
+- **Customer Satisfaction:** Avg(Customer Rating)  
+- **Average Response Time:** Σ(Response Time) ÷ Count(Tasks)  
+- **Apartment Performance Index:** Weighted score of energy, maintenance & occupancy metrics  
 
 ---
 
-## 🤖 Chatbot Features
-The Power BI chatbot answers:
-- “Which month had the highest revenue?”
-- “Who are the top trainers?”
-- “What’s our profit margin?”
-- “How can retention improve?”
+## 🤖 AI Assistant Features
+The **Home Tech AI Assistant** answers:
+- “Which apartments have the highest energy consumption?”  
+- “How many maintenance requests were completed this week?”  
+- “Which issues occur most frequently?”  
+- “Show average response time for maintenance tasks.”  
+- “What’s the predicted maintenance load for next month?”  
 
 ---
 
 ## ⚙️ Tech Stack
-**Data:** Python, Pandas, NumPy  
-**Visualization:** Power BI, DAX, Power Query  
-**AI:** Power Virtual Agents  
+**Data Source:** Microsoft Excel / Pivot Table / Power Query  
+**AI & Automation:** Streamlit, Gemini API, OpenAI Integration  
+**Deployment:** Streamlit Cloud / Local Server  
 
 ---
 
@@ -72,5 +79,7 @@ The Power BI chatbot answers:
 🌐 [Live Demo](https://iron-core-fitness.streamlit.app/)  
 📊 *Project Status: Active Development*
 
-## Thank You
+---
+
+## 🙏 Thank You
 ![Thank You](Thankyou1.png)
