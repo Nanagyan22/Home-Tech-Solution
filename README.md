@@ -1,4 +1,4 @@
-![Header](Header.png)
+![Header](head.png)
 
 # 🏠 Home Tech Solution Analytics & AI Assistant
 
@@ -76,7 +76,7 @@ The **Home Tech AI Assistant** answers:
 📧 [francisaffulgyan@gmail.com](mailto:francisaffulgyan@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/francis-afful-gyan-2b27a5153/)  
 📅 October 2025  
-🌐 [Live Demo](https://iron-core-fitness.streamlit.app/)  
+🌐 [Live Demo](https://home-tech-solution.streamlit.app/)  
 📊 *Project Status: Active Development*
 
 ---
