@@ -92,7 +92,7 @@ def main():
                 st.warning("⚠️ Home Dashboard image not found.")
 
             st.markdown("<br>", unsafe_allow_html=True)
-            if st.button("📄 Generate Comprehensive AI Report", type="primary", key="report_home"):
+            if st.button("📄 Generate Comprehensive Report", type="primary", key="report_home"):
                 with st.spinner("Generating Home Tech Solution Insights Report..."):
                     if not os.environ.get("GEMINI_API_KEY"):
                         st.error("⚠️ GEMINI_API_KEY not set. Please add your API key.")
